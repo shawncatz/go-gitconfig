@@ -1,0 +1,7 @@
+[alias]
+  st = status
+
+[bitbucket]
+  user = user
+  keychain = bub-test
+  url = http://localhost:8888
